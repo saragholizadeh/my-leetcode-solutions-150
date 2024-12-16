@@ -14,3 +14,8 @@ var majorityElement = function (nums) {
         }
     }
 };
+
+/**
+ * Time Complexity (Big-O): O(n)
+ * Space Complexity: O(n) 
+*/
