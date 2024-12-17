@@ -15,3 +15,8 @@ var maxProfit = function (prices) {
     }
     return max;
 };
+
+/**
+ * Time Complexity (Big-O): O(n)
+ * Space Complexity: O(1) 
+*/
